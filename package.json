@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "@s2ze/scheduler": "^1.1.0",
-    "@s2ze/tsconfig": "^1.1.0",
+    "@s2ze/scheduler": "^1.2.0",
+    "@s2ze/tsconfig": "^1.2.0",
     "@types/is-even": "^1.0.2",
     "is-even": "^1.0.0"
   },

@@ -3,7 +3,7 @@ import { test } from "@s2ze/scheduler";
 import isEven from "is-even";
 import { externalFunction } from "./test";
 
-Instance.Msg("Loaded")
+Instance.Msg("Loafdded")
 
 Instance.OnGameEvent("bullet_impact" as any, async () => {
   test();
