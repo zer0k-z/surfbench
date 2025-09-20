@@ -5,6 +5,7 @@ import commonjs from '@rollup/plugin-commonjs';
 const targets = [
   {
     input: 'src/test1/index.ts',
+    // you can put an absolute path to your csgo content folder here
     output: 'build/test1.js',
   },
   {
