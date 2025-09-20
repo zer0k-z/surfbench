@@ -2,7 +2,7 @@
   "dependencies": {
     "@s2ze/math": "^2.0.3",
     "@s2ze/tsconfig": "^2.0.1",
-    "@s2ze/types": "^2.0.1"
+    "@s2ze/types": "^2.0.4"
   },
   "type": "module",
   "devDependencies": {
