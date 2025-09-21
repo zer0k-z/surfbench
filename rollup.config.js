@@ -4,14 +4,9 @@ import commonjs from '@rollup/plugin-commonjs';
 
 const targets = [
   {
-    input: 'src/test1/index.ts',
-    // you can put an absolute path to your csgo content folder here
-    output: 'build/test1.js',
-  },
-  {
-    input: 'src/test2/index.ts',
-    output: 'build/test2.js',
-  },
+    input: 'src/surf.ts',
+    output: 'scripts/surf.js'
+  }
 ];
 
 export default targets.map(({ input, output }) => ({
