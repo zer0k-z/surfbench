@@ -5,7 +5,7 @@ import commonjs from '@rollup/plugin-commonjs';
 const targets = [
   {
     input: 'src/surf.ts',
-    output: 'scripts/surf.js'
+    output: 'scripts/vscripts/surf.js'
   }
 ];
 
